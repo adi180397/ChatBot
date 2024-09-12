@@ -11,5 +11,6 @@ FAISS for Document Retrieval: FAISS is used to index and retrieve relevant docum
 Groq Model: The chatbot is powered by the Groq API's language model, which provides high-quality, human-like responses based on the input query and document context.<br>
 Document Embeddings: HuggingFace embeddings are used to convert the documents into vector representations for FAISS indexing.<br>
 Customizable Responses: Users can adjust the chatbot's response creativity via a temperature slider.
-![image](https://github.com/user-attachments/assets/d906cc15-9977-4f95-b250-cf28273a46c3)
+![image](https://github.com/user-attachments/assets/5af85129-b431-4071-87f7-474881216a21)
+
 
